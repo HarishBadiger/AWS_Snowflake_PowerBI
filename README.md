@@ -9,3 +9,4 @@ Created visuals showcasing
 ➡️Average Humidity Vs (Crops, Year, Season, Location)
 ➡️Average Yield Vs (Crops, Year, Season, Location)
 and published report in Power BI Service.
+![Portfolio Dashboard](https://github.com/HarishBadiger/AWS_Snowflake_PowerBI/blob/7ca3678628f530e6d461e5e2b861c1aea4171835/PowerBI%20service.png)
